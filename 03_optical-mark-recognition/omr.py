@@ -98,6 +98,6 @@ text = 'Passed' if score >= 0.6 else 'Failed'
 cv2.putText(img=checked, text=f'{text}: {score * 100}%', org=(10, 30), fontFace=cv2.FONT_HERSHEY_SIMPLEX, fontScale=0.9,
             color=color, thickness=2)
 
-cv2.imwrite(r'assets\checked.png', checked)
+cv2.imwrite(r'images\checked.png', checked)
 cv2.imshow('image', checked)
 cv2.waitKey(0)

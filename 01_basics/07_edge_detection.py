@@ -3,7 +3,7 @@ import imutils
 
 # Canny Edge Detection jest popularnym algorytmem do wyszukiwania krawędzi
 
-img = cv2.imread(r'assets\guido.jpg')
+img = cv2.imread(r'images\guido.jpg')
 img = imutils.resize(image=img, height=500)
 cv2.imshow('img', img)
 

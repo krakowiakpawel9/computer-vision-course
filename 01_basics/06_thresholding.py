@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread(r'assets\grey.png', 0)
+img = cv2.imread(r'images\grey.png', 0)
 print(img)
 cv2.imshow('img', img)
 

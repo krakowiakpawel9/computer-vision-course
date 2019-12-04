@@ -1,6 +1,6 @@
 import cv2
 
-original_img = cv2.imread(r'assets\python.png')
+original_img = cv2.imread(r'images\python.png')
 img = original_img.copy()
 # cv2.imshow('original_img', img)
 

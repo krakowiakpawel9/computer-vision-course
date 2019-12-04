@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import imutils
 
-img = cv2.imread(r'assets\cube.jpg')
+img = cv2.imread(r'images\cube.jpg')
 img = imutils.resize(img, height=600)
 # cv2.imshow('img', img)
 

@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-original_img = cv2.imread(filename=r'assets\python.png')
+original_img = cv2.imread(filename=r'images\python.png')
 img = original_img.copy()
 
 # cv2.imshow(winname='logo', mat=img)

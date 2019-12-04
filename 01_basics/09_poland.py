@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread(r'assets\poland.png')
+img = cv2.imread(r'images\poland.png')
 img = cv2.copyMakeBorder(
     src=img,
     top=20,

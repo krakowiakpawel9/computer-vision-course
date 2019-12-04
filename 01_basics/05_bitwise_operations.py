@@ -1,8 +1,8 @@
 import cv2
 import imutils
 
-img = cv2.imread(r'assets\view.jpg')
-logo = cv2.imread(r'assets\python.png')
+img = cv2.imread(r'images\view.jpg')
+logo = cv2.imread(r'images\python.png')
 logo = imutils.resize(logo, height=150)
 
 # cv2.imshow('img', img)
