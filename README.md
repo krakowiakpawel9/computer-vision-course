@@ -1,3 +1,3 @@
 # computer-vision-course
 
-Repozytorium kursu dostępne na platformie Udemy.com
+Repozytorium kursu dostępnego na platformie Udemy.com
