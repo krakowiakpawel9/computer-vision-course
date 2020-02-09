@@ -1,3 +1,8 @@
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 import plotly.graph_objects as go
 import plotly.offline as po
 from plotly.subplots import make_subplots

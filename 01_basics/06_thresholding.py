@@ -1,3 +1,8 @@
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 import cv2
 
 img = cv2.imread(r'images\grey.png', 0)
